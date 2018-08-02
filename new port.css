@@ -1,0 +1,131 @@
+body{
+ font-size: 25px;
+    font-family: georgia,verdana;
+  background-color: black;
+  color: aliceblue;
+    
+} 
+#header{
+    text-align: center;
+    border : 1px solid black;
+    border-radius: 5px;
+    color : black;
+    background-color: white;
+    
+}
+#header:hover{
+    background-color: black;
+    color : white;
+}
+
+
+.img{
+    width: 97vw;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+#abt{
+  text-align: center;
+    
+      
+}
+#abt ul li {
+    background-color: brown;
+    list-style-type: none;
+    padding: .1vw 1vw;
+    width:50px;
+    background-color: aqua;
+    display: inline;
+    border-radius: 8px;
+    font-family: Arial;   
+}
+#abt ul li a{
+    text-decoration: none;
+    
+}
+
+    
+
+
+.shoebimg{
+    border: 1px solid white;
+    border-radius: 5px;
+    
+}
+
+#shoebimg{
+   
+   margin-left: 20vw;
+   width: 20vw;
+ border: 1px solid white;
+    border-radius: 5px;
+
+}
+
+#shoebimg:hover{
+    background-color: aqua;
+}
+
+h1{
+   text-align: center; 
+      color : black;
+    background-color: white;
+   text-decoration: underline;
+}
+.hobbies{
+   border : 1px solid white;
+    border-radius: 5px;
+    margin-top: 10px;
+      
+    
+}
+h1:hover{
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+    padding: 5px
+    
+}
+
+.tech{
+    border: 1px solid white;
+    border-radius: 5px;
+    margin: 5px;
+    
+    
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    
+}
+h2:hover{
+    background-color: black;
+    color: white;
+    padding: 5px
+}
+.exp{
+    border : 1px solid white ;
+    border-radius: 5px;
+    margin:5px;
+}
+.copy{
+    text-align: center;
+    background-color: white;
+    color: brown;
+    margin: 20px;
+    border-radius: 10px
+}
+
+
+
+
+
+
+
+
+
+        
